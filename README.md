@@ -1,2 +1,2 @@
 # DigiMedic-Future-open-healthcare-czech-republic
-DigiMedic, projekt zaměřený na implementaci open-source platformy Medplum do českého zdravotnického systému. Integrací platformy Medplum chceme zefektivnit zdravotní péči, podpořit inovace ve zdravotnictví a zvýšit přístup pacientů k jejich zdravotním údajům a kontrolu nad nimi.
+DigiMedic, a project dedicated to implementing the open-source Medplum platform into the Czech healthcare system. Our goal is to provide modern, adaptable, and efficient IT solutions for medical practices and healthcare facilities, prioritizing interoperability, security, and user-friendliness. By integrating Medplum, we aim to streamline healthcare, foster healthcare innovations, and increase patient access and control over their health data.
