@@ -10,30 +10,39 @@
 
 ---
 
-# DigiMedic-Future-open-healthcare-czech-republic
-DigiMedic, projekt zaměřený na implementaci open-source platformy Medplum do českého zdravotnického systému. Naším cílem je poskytovat moderní, adaptabilní a efektivní IT řešení pro lékařské praxe a zdravotnická zařízení, přičemž prioritou je interoperabilita, bezpečnost a uživatelská přívětivost. Integrací platformy Medplum chceme zefektivnit zdravotní péči, podpořit inovace ve zdravotnictví a zvýšit přístup pacientů k jejich zdravotním údajům a kontrolu nad nimi.
-
-@[﻿github.com/medplum](https://github.com/medplum) 
-
-## Stakeholders:
-
+# 🇨🇿 DigiMedic-Future open healthcare
+DigiMedic, projekt zaměřený na implementaci open-source platformy Medplum do českého zdravotnického systému. Naším cílem je poskytovat moderní, adaptabilní a efektivní IT řešení pro lékařské praxe a zdravotnická zařízení, přičemž prioritou je interoperabilita, škálovatelnost, bezpečnost a uživatelská přívětivost. Integrací platformy Medplum chceme zefektivnit zdravotní péči, podpořit inovace ve zdravotnictví a zvýšit přístup pacientů k jejich zdravotním údajům a kontrolu nad nimi.
 
 ---
 
-[﻿Untitled File](https://app.eraser.io/workspace/3nEIEm1QjHTHZHybdU1p) 
-
+## Key Stakeholders:
+|  |  |  |
+| ----- | ----- | ----- |
+|  |  |  |
+|  |  |  |
 ---
 
-# Cíl projektu:
-Hlavní cíl projektu je vybudovat platformu
+# 💡 Brief
+> DigiMedic usiluje o vytvoření robustního a moderního zdravotnického systému v České republice, který je založen na interoperabilitě, bezpečnosti údajů a zapojení pacientů. Jeho cílem je zlepšit přístup k péči, posílit koordinaci mezi poskytovateli zdravotní péče a nakonec zlepšit zdraví a blaho občanů.
 
-# Úvod
-- Přehled DigiMedic a jeho cílů
-- Význam integrace Medplum
+# 🏁 Cíle
+Výměna zdravotních údajů v českém zdravotnictví prostřednictvím otevřené a interoperabilní platformy. Spolupráce veřejného a soukromého sektoru zajišťuje neustálou interoperabilitu a zlepšuje zdravotní péči. Platforma chrání soukromí pacientů, umožňuje individualizovanou péči a je přizpůsobena různým potřebám zdravotnických organizací. DigiMedic podporuje zapojení pacientů a jejich informovanost. Vytváří také odbornou komunitu pro vývoj softwaru pro zdravotnictví, podporuje inovace a zajišťuje, aby potřeby lékařů a pacientů byly na prvním místě.
+
+# [﻿Hlavní cíle](https://app.eraser.io/workspace/U9vyruHXDGh2n9HbSvNf) 🏁
+---
+
 # Integrace Medplum
-- Účel integrace
-- Očekávané přínosy pro zdravotnické systémy
-# Technický přehled
+Projekt DigiMedic využívá platformu Medplum, protože nabízí robustní a interoperabilní řešení pro výměnu zdravotních údajů. Medplum je navržen tak, aby umožňoval bezpečný a bezproblémový tok zdravotních údajů mezi různými systémy a aplikacemi. Tímto způsobem může DigiMedic zlepšit koordinaci zdravotní péče a zajistit, aby poskytovatelé zdravotní péče měli přístup k úplným a aktuálním zdravotním údajům pacientů.
+
+Medplum také umožňuje individualizovanou zdravotní péči a podporuje zapojení pacientů. Poskytovatelé zdravotní péče mohou vytvářet personalizované plány péče a pacienti mohou aktivně spravovat své zdraví. Platforma splňuje přísné standardy ochrany zdraví a zajišťuje bezpečnost a ochranu soukromí pacientů.
+
+Integrace Medplumu do českého zdravotnického systému přináší interoperabilitu, zlepšuje výsledky pacientů a posouvá zdravotnictví na novou úroveň. Umožňuje zdravotnickým organizacím a vývojářům spolupracovat na vytváření inovativních řešení, která mají přímý dopad na kvalitu zdravotní péče.
+
+DigiMedic staví na platformě Medplum, aby vytvořil moderní, efektivní a propojený zdravotnický systém, který bude sloužit potřebám lékařů, pacientů a zdravotnických organizací.
+
+---
+
+# 🧰 Technický Zásobník
 - Popis platformy Medplum
 - Klíčové vlastnosti a funkce
 - Schéma architektury systému (je-li to vhodné)
