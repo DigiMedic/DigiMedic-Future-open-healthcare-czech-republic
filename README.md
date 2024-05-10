@@ -15,9 +15,40 @@ DigiMedic, projekt zaměřený na implementaci open-source platformy Medplum do 
 
 @[﻿github.com/medplum](https://github.com/medplum) 
 
+## Stakeholders:
+
+
+---
+
+[﻿Untitled File](https://app.eraser.io/workspace/3nEIEm1QjHTHZHybdU1p) 
+
+---
+
 # Cíl projektu:
 Hlavní cíl projektu je vybudovat platformu
 
+# Úvod
+- Přehled DigiMedic a jeho cílů
+- Význam integrace Medplum
+# Integrace Medplum
+- Účel integrace
+- Očekávané přínosy pro zdravotnické systémy
+# Technický přehled
+- Popis platformy Medplum
+- Klíčové vlastnosti a funkce
+- Schéma architektury systému (je-li to vhodné)
+# Dopad na zdravotní péči
+- Zlepšení přístupu k údajům o pacientech a jejich kontroly
+- Zlepšení efektivity zdravotnických služeb
+# Případové studie
+- Příklady úspěšných implementací systému Medplum
+- Údaje a výsledky
+# Závěr
+- Shrnutí klíčových bodů
+- Výhled do budoucna pro integraci DigiMedic a Medplum
+# Vizuální prvky
+- Grafy zobrazující předpokládaná zlepšení
+- Obrázky rozhraní Medplum
 
 
 
